@@ -12,6 +12,7 @@
 - [**Naanayam**](https://github.com/NamChain-Open-Initiative-Research-Lab/Naanayam) is our native Cryptocurrency. NAN is the currency code.
 - **Anna** is the smallest unit of Nanayam.
 - [**NIP**](https://github.com/NamChain-Open-Initiative-Research-Lab/NIPs) is a standard procedure to introduce changes and communicate information to our community.
+- **Ram** is the native Cryptographic Hash function.
 - [**Mini**](https://github.com/NamChain-Open-Initiative-Research-Lab/Mini) is the API-based Smart Contract development language.
 - **Ma** is our Genesis Block.
 - [**Bis**](https://github.com/NamChain-Open-Initiative-Research-Lab/BIS) is the collection of நம்Chain Standards.
