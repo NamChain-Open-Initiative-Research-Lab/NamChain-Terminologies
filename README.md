@@ -1,4 +1,4 @@
-# நம்Chain - Open Initiative Research Lab ![](https://img.shields.io/badge/Project-Nam-ff69b4.svg)
+# நம்Chain® Open Initiative Research Lab ![](https://img.shields.io/badge/Project-Nam-ff69b4.svg)
 
 <p align="center">
 <img src="https://1.bp.blogspot.com/-xakDR1PmZ9s/X6EvQwQDteI/AAAAAAAAAqo/Alr7phylOBMs41uxeyHVLeIJNf2F0p8_QCLcBGAsYHQ/s1138/NCT.jpg" width="300" align="center">
@@ -6,7 +6,7 @@
 
 # நம்Chain Terminologies
 <p align="center">
-<b>நம்Chain</b> is an open-source family of projects comprising of DApps, DLTs, Libraries, Tools and Standards with Quantum support.
+<b>நம்Chain®</b> is an open-source family of projects comprising of DApps, DLTs, Libraries, Tools and Standards with Quantum support.
 </p>
 
 - [**Naanayam**](https://github.com/NamChain-Open-Initiative-Research-Lab/Naanayam) is our native Cryptocurrency. NAN is the currency code.
