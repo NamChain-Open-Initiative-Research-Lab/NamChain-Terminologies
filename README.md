@@ -31,4 +31,5 @@
   - [**Bhuvaநம்Chain**](https://github.com/NamChain-Open-Initiative-Research-Lab/BhuvaNamChain-PoC) is a permission DLT for Geographic Information System (GIS).
   - [**Payaநம்Chain**](https://github.com/NamChain-Open-Initiative-Research-Lab/PayaNamChain-PoC) is a permissioned DLT for Logistics and Transportation.
 - [**Savi**](https://github.com/NamChain-Open-Initiative-Research-Lab/Savi) is our native Wallet to store keys and cryptoassets.
-
+- [**Tinnu**](https://github.com/NamChain-Open-Initiative-Research-Lab/Tinnu) is our Lightweight Client (Tiny Node Unit).
+- [**Jayaraj**](https://github.com/NamChain-Open-Initiative-Research-Lab/Jayaraj) is our Governance & Consensus Framework.
